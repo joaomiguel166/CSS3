@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="pt">
+
+<head>
+        <title>Normalize CSS</title>
+    <meta charset="utf- 8"/>
+    <link rel="stylesheet" type="text/css" href="estilo.css" />
+
+
+
+</head>
+
+<body>
+<fieldset>
+<legend>Cadastro</legend>
+nome:<input type="text"><pt>
+nome:<input type="text"><pt>
+<button>salvar</button>
+
+
+
+
+</fieldset>
+
+</body>
+
+
+    
+</html>
